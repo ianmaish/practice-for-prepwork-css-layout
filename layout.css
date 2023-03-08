@@ -1,0 +1,41 @@
+form {
+    display: flex;
+    justify-content: center;
+
+}
+fieldset {
+    
+    justify-content: space-around;
+
+}
+
+.names{
+    display: grid;
+    
+}
+.lname{
+    display: flex;
+    justify-content: center;
+}
+
+.radio {
+    display: flex;
+    justify-content: center;
+}
+.date {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+
+.comments{
+    display: grid;
+
+}
+.check{
+    display: flex;
+}
+.button{
+    display: flex;
+    justify-content: center;
+}
